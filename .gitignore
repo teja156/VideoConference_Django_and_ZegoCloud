@@ -1,0 +1,4 @@
+videoconference_app/__pycache__/*
+videoconference_app/migrations/*
+videoconferencing/__pycache__/*
+*.sqlite3
